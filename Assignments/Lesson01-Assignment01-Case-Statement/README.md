@@ -62,7 +62,7 @@ of your solution.
   Your solution must be placed within this file.
   * spec - this directory contains tests to verify your solution. You should
   not modify anything in this directory
-  * .rspec - configuration file for unit tests. If you move your files you must take 
+  * .rspec - configuration file for unit tests. If you move your files you must take
   care to also copy this file.
 
 2. Install the following gems used by the rspec unit tests. You may have
@@ -73,7 +73,7 @@ $ gem install rspec
 $ gem install rspec-its
 ```
 
-3. Run the provided Ruby script containing the if/else 
+3. Run the provided Ruby script containing the if/else
 
 ```shell
 $ ruby module2_lesson1_formative.rb
@@ -108,7 +108,7 @@ rspec ./spec/lesson1_spec.rb:29 # lesson1 check implementation missing case
 
 ### Technical Requirements
 
-1. Implement all parts of this assignment within the module2_lesson1_formative.rb 
+1. Implement all parts of this assignment within the module2_lesson1_formative.rb
 file in the root directory of your solution. The grader will load this specific
 file from this location.
 
@@ -133,6 +133,6 @@ Finished in 0.00304 seconds (files took 0.16353 seconds to load)
 
 ### Submission
 
-There is no submission required for this assignment but the 
-skills learned will be part of a follow-on assignment so 
+There is no submission required for this assignment but the
+skills learned will be part of a follow-on assignment so
 please complete this to the requirements of the unit test.
